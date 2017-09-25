@@ -1,0 +1,23 @@
+
+Linux不同的发行版执行的命令如下：
+
+Debian / Ubuntu:
+apt-get install python-pip
+pip install shadowsocks
+ 
+#apt-get install  python-m3crypto  备用
+CentOS:
+yum install python-setuptools && easy_install pip
+pip install shadowsocks
+
+
+
+
+
+server edge:  serverip 0.0.0.0
+
+
+ssserver -c  ***/*.json -d start
+
+
+sslocal -c ***/*.json 

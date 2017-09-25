@@ -1,0 +1,9 @@
+{
+    "server":"47.89.185.90",
+    "server_port":8880,
+    "local_address":"127.0.0.1",
+    "local_port":8888,
+    "password":"niuniuniu",
+    "timeout":300,
+    "method":"aes-256-cfb"
+}
